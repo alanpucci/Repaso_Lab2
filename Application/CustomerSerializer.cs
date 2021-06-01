@@ -17,7 +17,7 @@ namespace Application.DataAcces
         public bool Save(List<Customer> customer)
         {
 
-            string path = AppDomain.CurrentDomain.BaseDirectory + "OtherCustomers.xml";
+            string path = AppDomain.CurrentDomain.BaseDirectory + "Customers.xml";
 
             return base.Save(path, customer);
 

@@ -47,7 +47,11 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(240, 323);
             this.Controls.Add(this.btnUpdate);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "FrmCustomerUpdate";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmCustomerUpdate";
             this.Controls.SetChildIndex(this.btnUpdate, 0);
             this.Controls.SetChildIndex(this.btnAdd, 0);

@@ -63,7 +63,7 @@ namespace Application.Tests
         {
             //Arrange
             CustomerRepository target = new CustomerRepository(); // TODO: Inicializar de manera apropiada
-            long entityId = 1;
+            long entityId = 21;
             Customer expected = new Customer("Alan", "Pucci",26); // TODO: Inicializar de manera apropiada
             target.Create(expected);
             Customer actual;
@@ -82,16 +82,16 @@ namespace Application.Tests
         public void RemoveTest()
         {
             //Arrange
-            CustomerRepository target = null; // TODO: Inicializar de manera apropiada 
-            Customer entity = null;// TODO: Inicializar de manera apropiada
+            CustomerRepository target = new CustomerRepository(); // TODO: Inicializar de manera apropiada 
+            Customer entity = new Customer();// TODO: Inicializar de manera apropiada
             entity.Id = 1;
-            target.Remove(entity);
-            Customer actual;
 
             //Act
+            target.Remove(entity);
+            List<Customer> actual = target.GetAll();
 
             //Assert
-            Assert.Inconclusive("A method that does not return a value cannot be verified.");
+            Assert.AreEqual(actual.Count, 19);
 
         }
         ///// <summary>
@@ -101,14 +101,17 @@ namespace Application.Tests
         public void UpdateTest()
         {
             //Arrange
-            CustomerRepository target = null; // TODO: Inicializar de manera apropiada 
-            Customer entity = null; // TODO: Inicializar de manera apropiada 
+            CustomerRepository target = new CustomerRepository(); // TODO: Inicializar de manera apropiada 
+            Customer entity = new Customer("Alan","Pucci",26); // TODO: Inicializar de manera apropiada 
+            entity.Id = 1;
+            Customer actual;
 
             //Act
             target.Update(entity);
+            actual = target.GetById(1);
 
             //Assert
-            Assert.Inconclusive("A method that does not return a value cannot be verified.");
+            Assert.AreEqual(actual.LastName, entity.LastName);
 
         }
     }

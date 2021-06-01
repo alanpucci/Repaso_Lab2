@@ -47,6 +47,23 @@ namespace Application.Models
             return !(customers == customer);
         }
 
+        public static int SortById(Entity e1, Entity e2)
+        {
+            int output = 0;
+            if (!(e1 is null || e2 is null))
+            {
+                if (e1.Id > e2.Id)
+                {
+                    output = 1;
+                }
+                else if (e1.Id < e2.Id)
+                {
+                    output = -1;
+                }
+            }
+            return output;
+        }
+
 
     }
 }

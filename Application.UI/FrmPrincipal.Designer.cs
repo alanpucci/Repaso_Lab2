@@ -61,14 +61,14 @@
             // cargarArchivoToolStripMenuItem
             // 
             this.cargarArchivoToolStripMenuItem.Name = "cargarArchivoToolStripMenuItem";
-            this.cargarArchivoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.cargarArchivoToolStripMenuItem.Size = new System.Drawing.Size(122, 22);
             this.cargarArchivoToolStripMenuItem.Text = "Save file";
             this.cargarArchivoToolStripMenuItem.Click += new System.EventHandler(this.cargarArchivoToolStripMenuItem_Click);
             // 
             // openFileToolStripMenuItem
             // 
             this.openFileToolStripMenuItem.Name = "openFileToolStripMenuItem";
-            this.openFileToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.openFileToolStripMenuItem.Size = new System.Drawing.Size(122, 22);
             this.openFileToolStripMenuItem.Text = "Open file";
             this.openFileToolStripMenuItem.Click += new System.EventHandler(this.openFileToolStripMenuItem_Click);
             // 
@@ -95,6 +95,8 @@
             this.Controls.Add(this.mstPrincipal);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MainMenuStrip = this.mstPrincipal;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "FrmPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmPrincipal";

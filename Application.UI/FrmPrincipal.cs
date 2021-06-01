@@ -38,7 +38,12 @@ namespace WindowsFormsApp1
         {
             try
             {
-                this.customerRepository.GetAll(AppDomain.CurrentDomain.BaseDirectory + "Customers.xml");
+                using (OpenFileDialog openFile = new OpenFileDialog())
+                {
+                    openFile.ShowDialog();
+                    string fileName = openFile.FileName;
+                    this.customerRepository.GetAll(fileName);
+                }
             }
             catch (Exception ex)
             {

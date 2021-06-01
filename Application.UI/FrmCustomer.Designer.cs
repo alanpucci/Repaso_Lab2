@@ -125,7 +125,11 @@
             this.Controls.Add(this.lblName);
             this.Controls.Add(this.btnCancel);
             this.Controls.Add(this.btnAdd);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "FrmCustomer";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmCustomer";
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -18,13 +18,13 @@ namespace Application.Repositories
             // Carga de 100 clientes de forma predeterminada
             customers = new List<Customer>();
 
-            for (int i = 0; i < 100; i++)
+            for (int i = 0; i < 20; i++)
             {
                 var customer = new Customer();
                 customer.Id = i + 1;
                 customer.Name = "CustomerName" + customer.Id;
                 customer.LastName = "CustomerLastname" + customer.Id;
-                customer.Age = 10 + (int)customer.Id;
+                customer.Age = 20 + (int)customer.Id;
 
                 customers.Add(customer);
             }
@@ -56,12 +56,15 @@ namespace Application.Repositories
 
         }
 
+
+
         public override List<Customer> GetAll()
         {
             // Devuelve una nueva lista ordenada
             //TODO: resolver el error
-            
-            return customers.ToList();
+            List<Customer> output = customers.ToList();
+            output.Sort(Customer.SortById);
+            return output;
         }
         public List<Customer> GetAll(string path)
         {
@@ -72,7 +75,6 @@ namespace Application.Repositories
 
         public override Customer GetById(long entityId)
         {
-            // TODO: implementar
             try
             {
                 foreach (Customer item in customers)
@@ -82,7 +84,7 @@ namespace Application.Repositories
                         return item;
                     }
                 }
-                throw new Exception("No se encontró con ese ID");
+                throw new Exception("No se encontró ese ID");
             }
             catch (Exception ex)
             {

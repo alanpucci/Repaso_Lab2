@@ -34,7 +34,7 @@ namespace Application.Files.Xml
         {
             try
             {
-                if (file.Contains('\\') || !File.Exists(file))
+                if (!File.Exists(file))
                 {
                     throw new Exception("Ruta inválida.");
                 }
