@@ -1,0 +1,82 @@
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csprojAssemblyReference.cache
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.dll
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.pdb
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Common.dll
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Models.dll
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Serialization.dll
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Common.pdb
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Models.pdb
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Serialization.pdb
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csproj.CopyComplete
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.dll
+C:\Users\lauta\source\repos\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Common.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Models.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Common.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Models.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csproj.CopyComplete
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Files.dll
+C:\Users\Esteban\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Files.pdb
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.dll
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.pdb
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.dll
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.pdb
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Common.dll
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Files.dll
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Models.dll
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Common.pdb
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Files.pdb
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Models.pdb
+C:\Users\lauta\Desktop\Nueva carpeta\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csproj.CopyComplete
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Common.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Files.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Models.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Common.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Files.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\bin\Debug\Application.Models.pdb
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csprojAssemblyReference.cache
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csproj.CopyComplete
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.dll
+C:\Users\lauta\Desktop\RepasoPrograII\RepasoPrograII20210531\Application\obj\Debug\Application.pdb
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.dll
+C:\Users\Esteban\Desktop\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.pdb
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csprojAssemblyReference.cache
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csproj.CoreCompileInputs.cache
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.dll
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.pdb
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Application\bin\Debug\Application.dll
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Application\bin\Debug\Application.pdb
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Application\bin\Debug\Application.Common.dll
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Application\bin\Debug\Application.Files.dll
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Application\bin\Debug\Application.Models.dll
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Application\bin\Debug\Application.Common.pdb
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Application\bin\Debug\Application.Files.pdb
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Application\bin\Debug\Application.Models.pdb
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Application\obj\Debug\Application.Logic.csproj.CopyComplete
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application\bin\Debug\Application.dll
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application\bin\Debug\Application.pdb
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application\bin\Debug\Application.Common.dll
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application\bin\Debug\Application.Files.dll
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application\bin\Debug\Application.Models.dll
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application\bin\Debug\Application.Common.pdb
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application\bin\Debug\Application.Files.pdb
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application\bin\Debug\Application.Models.pdb
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application\obj\Debug\Application.Logic.csprojAssemblyReference.cache
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application\obj\Debug\Application.Logic.csproj.CoreCompileInputs.cache
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application\obj\Debug\Application.Logic.csproj.CopyComplete
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application\obj\Debug\Application.dll
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application\obj\Debug\Application.pdb
