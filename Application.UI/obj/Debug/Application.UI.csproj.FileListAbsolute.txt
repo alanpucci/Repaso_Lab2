@@ -167,10 +167,12 @@ C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.UI\bin\Debug\WindowsFormsApp1.exe
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.UI\bin\Debug\WindowsFormsApp1.pdb
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.UI\bin\Debug\Application.Common.dll
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.UI\bin\Debug\Application.DataAccess.dll
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.UI\bin\Debug\Application.dll
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.UI\bin\Debug\Application.Models.dll
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.UI\bin\Debug\Application.Files.dll
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.UI\bin\Debug\Application.Common.pdb
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.UI\bin\Debug\Application.DataAccess.pdb
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.UI\bin\Debug\Application.Models.pdb
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.UI\bin\Debug\Application.pdb
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.UI\bin\Debug\Application.Files.pdb

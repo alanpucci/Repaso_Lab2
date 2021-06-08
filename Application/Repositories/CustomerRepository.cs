@@ -2,14 +2,17 @@
 using System.Collections.Generic;
 using System.Linq;
 using Application.Exceptions;
-using Application.DataAcces;
 using Application.Models;
+using Application.DataAccess;
+using Application.DataAcces;
 
 namespace Application.Repositories
 {
     public class CustomerRepository : RepositoryBase<Customer>
     {
         private static List<Customer> customers;
+
+        //public object DataAccess { get; private set; }
 
         #region -- Los datos no se encuentran guardados más que en memoria --
 
@@ -18,16 +21,16 @@ namespace Application.Repositories
             // Carga de 100 clientes de forma predeterminada
             customers = new List<Customer>();
 
-            for (int i = 0; i < 20; i++)
-            {
-                var customer = new Customer();
-                customer.Id = i + 1;
-                customer.Name = "CustomerName" + customer.Id;
-                customer.LastName = "CustomerLastname" + customer.Id;
-                customer.Age = 20 + (int)customer.Id;
+            //for (int i = 0; i < 20; i++)
+            //{
+            //    var customer = new Customer();
+            //    customer.Id = i + 1;
+            //    customer.Name = "CustomerName" + customer.Id;
+            //    customer.LastName = "CustomerLastname" + customer.Id;
+            //    customer.Age = 20 + (int)customer.Id;
 
-                customers.Add(customer);
-            }
+            //    customers.Add(customer);
+            //}
         }
 
         #endregion
@@ -36,16 +39,7 @@ namespace Application.Repositories
         {
             try
             {
-                long lastId = (long)(customers[customers.Count - 1]).Id;
-                entity.Id = lastId + 1;
-                if (customers != entity)
-                {
-                    customers.Add(entity);
-                }
-                else
-                {
-                    throw new Exception();
-                }
+                DataAccess.DataAccess.InsertCustomer(entity);
             }
             catch (Exception ex)
             {
@@ -56,33 +50,25 @@ namespace Application.Repositories
 
         }
 
-
-
         public override List<Customer> GetAll()
         {
-            // Devuelve una nueva lista ordenada
-            //TODO: resolver el error
-            List<Customer> output = customers.ToList();
-            output.Sort(Customer.SortById);
-            return output;
+            return DataAccess.DataAccess.GetCustomers();
         }
         public List<Customer> GetAll(string path)
         {
             CustomerSerializer customerSerializer = new CustomerSerializer();
-            customers.AddRange(customerSerializer.Read(path));
+            customers = customerSerializer.Read(path);
             return customers;
         }
 
-        public override Customer GetById(long entityId)
+        public override Customer GetById(int entityId)
         {
             try
             {
-                foreach (Customer item in customers)
+                Customer customer = DataAccess.DataAccess.GetById(entityId);
+                if (!(customer is null))
                 {
-                    if(item.Id == entityId)
-                    {
-                        return item;
-                    }
+                    return customer;
                 }
                 throw new Exception("No se encontró ese ID");
             }
@@ -97,7 +83,7 @@ namespace Application.Repositories
             // TODO: implementar
             try
             {
-                customers.Remove(this.GetById(entity.Id));
+                DataAccess.DataAccess.DeleteCustomer(entity.Id);
             }
             catch (Exception ex)
             {
@@ -110,8 +96,7 @@ namespace Application.Repositories
             // TODO: implementar
             try
             {
-                Customer aux = this.GetById(entity.Id);
-                customers[customers.IndexOf(aux)] = entity;
+                DataAccess.DataAccess.UpdateCustomer(entity);
             }
             catch (Exception ex)
             {

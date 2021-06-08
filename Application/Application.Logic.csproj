@@ -53,6 +53,10 @@
       <Project>{532B3886-E825-457D-A362-D2D6B62C5281}</Project>
       <Name>Application.Common</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Application.DataAccess\Application.DataAccess.csproj">
+      <Project>{61d8f3e4-959d-43d1-ac1e-f66637bf44e4}</Project>
+      <Name>Application.DataAccess</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Application.Files\Application.Files.csproj">
       <Project>{9d9384e1-3d03-436c-8bca-87eb963c278d}</Project>
       <Name>Application.Files</Name>

@@ -25,3 +25,9 @@ C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Applic
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Common\obj\Debug\Application.Common.csproj.CoreCompileInputs.cache
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Common\obj\Debug\Application.Common.dll
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Application.Common\obj\Debug\Application.Common.pdb
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.Common\bin\Debug\Application.Common.dll
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.Common\bin\Debug\Application.Common.pdb
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.Common\obj\Debug\Application.Common.csprojAssemblyReference.cache
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.Common\obj\Debug\Application.Common.csproj.CoreCompileInputs.cache
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.Common\obj\Debug\Application.Common.dll
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.Common\obj\Debug\Application.Common.pdb

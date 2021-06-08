@@ -1,0 +1,11 @@
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.DataAccess\bin\Debug\Application.DataAccess.dll
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.DataAccess\bin\Debug\Application.DataAccess.pdb
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.DataAccess\bin\Debug\Application.Models.dll
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.DataAccess\bin\Debug\Application.Common.dll
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.DataAccess\bin\Debug\Application.Models.pdb
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.DataAccess\bin\Debug\Application.Common.pdb
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.DataAccess\obj\Debug\Application.DataAccess.csprojAssemblyReference.cache
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.DataAccess\obj\Debug\Application.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.DataAccess\obj\Debug\Application.DataAccess.csproj.CopyComplete
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.DataAccess\obj\Debug\Application.DataAccess.dll
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.DataAccess\obj\Debug\Application.DataAccess.pdb

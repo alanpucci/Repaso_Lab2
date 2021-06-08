@@ -12,7 +12,7 @@ namespace Application.Repositories
     {
         public abstract List<T> GetAll();
 
-        public abstract T GetById(long entityId);
+        public abstract T GetById(int entityId);
 
         public abstract void Create(T entity);
 

@@ -21,11 +21,18 @@ namespace Application.Models
         {
 
         }
+
         public Customer(string name, string lastName, int age)
         {
             this.name = name;
             this.lastName = lastName;
             this.age = age;
+        }
+
+        public Customer(string name, string lastName, int age, int id)
+            :this(name, lastName, age)
+        {
+            this.Id = id;
         }
 
         public static bool operator ==(List<Customer> customers, Customer customer)

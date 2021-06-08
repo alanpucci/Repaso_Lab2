@@ -47,8 +47,8 @@ C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.Models\bin\Debug\Application.Models.pdb
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.Models\bin\Debug\Application.Common.dll
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.Models\bin\Debug\Application.Common.pdb
-C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.Models\obj\Debug\Application.Models.csprojAssemblyReference.cache
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.Models\obj\Debug\Application.Models.csproj.CoreCompileInputs.cache
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.Models\obj\Debug\Application.Models.csproj.CopyComplete
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.Models\obj\Debug\Application.Models.dll
 C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.Models\obj\Debug\Application.Models.pdb
+C:\Users\alane\source\repos\RepasoPrograII-cascara\RepasoPrograII20210531\Repaso_Lab2\Application.Models\obj\Debug\Application.Models.csprojAssemblyReference.cache

@@ -13,7 +13,7 @@ namespace Application.Common
     {
         List<T> GetAll();
 
-        T GetById(long entityId);
+        T GetById(int entityId);
 
         void Create(T entity);
 
